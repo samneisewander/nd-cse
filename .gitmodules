@@ -10,3 +10,6 @@
 [submodule "intro-to-ai-fa2025"]
 	path = intro-to-ai-fa2025
 	url = git@github.com:samneisewander/intro-to-ai-fa2025.git
+[submodule "systems-programming-sp2025"]
+	path = systems-programming-sp2025
+	url = git@github.com:samneisewander/systems-programming-sp2025.git
