@@ -1,3 +1,12 @@
 [submodule "compilers-fa2025"]
 	path = compilers-fa2025
 	url = git@github.com:samneisewander/compilers-fa2025.git
+[submodule "data-structures-sp2025"]
+	path = data-structures-sp2025
+	url = git@github.com:samneisewander/data-structures-sp2025.git
+[submodule "operating-systems-fa2025"]
+	path = operating-systems-fa2025
+	url = git@github.com:samneisewander/operating-systems-fa2025.git
+[submodule "intro-to-ai-fa2025"]
+	path = intro-to-ai-fa2025
+	url = git@github.com:samneisewander/intro-to-ai-fa2025.git
