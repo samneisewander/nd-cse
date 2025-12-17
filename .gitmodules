@@ -1,0 +1,3 @@
+[submodule "compilers-fa2025"]
+	path = compilers-fa2025
+	url = git@github.com:samneisewander/compilers-fa2025.git
